@@ -11,7 +11,8 @@ export const styles = StyleSheet.create({
     textAlign: "center",
     fontSize: 14,
     flex: 1,
-    textAlignVertical: "center"
+    textAlignVertical: "center",
+    marginTop: 140
   },
   content: {
     flex: 1,
